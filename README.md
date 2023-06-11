@@ -52,9 +52,9 @@ public class IdletoCrouch : MonoBehaviour
 
 ## Output:
 
-![img1]()
+![img1](https://github.com/ragulmani936/Animator/blob/main/img1.png)
 
-![img2]()
+![img2](https://github.com/ragulmani936/Animator/blob/main/img2.png)
 
 ## Result:
 
